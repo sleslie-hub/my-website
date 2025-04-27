@@ -6,6 +6,6 @@ More features and projects coming soon.
 
 ## Build site
 
-#. npm install
-#. npm run build
-#. npm run dev
+1. npm install
+2. npm run build
+3. npm run dev  
