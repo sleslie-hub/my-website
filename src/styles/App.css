@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#site-title {
+  font-size: 3rem; /* Adjust the font size */
+  font-weight: bold;
+  margin-bottom: 2rem; /* Space below the title */
+  color: #333; /* Adjust the color as needed */
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
